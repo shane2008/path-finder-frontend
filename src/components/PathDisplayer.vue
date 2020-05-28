@@ -9,7 +9,7 @@
     <div class="mx-auto notes mt-3">
       <nav><span class='text-success'>Green dot:</span> Starting point (0,0) - always at the centre</nav>
       <nav><span class='text-danger'>Red dot:</span> This is the End point</nav>
-      <nav><span class='text-secondary'>Gray dots:</span> Ponts turtle has traveled to once</nav>
+      <nav><span class='text-secondary'>Gray dots:</span> Points turtle has traveled to once</nav>
       <nav><span class='text-warning'>Orange dots:</span> Points turtle has traveled to more than once unless it's end point</nav>
     </div>
   </div>
